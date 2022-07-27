@@ -65,7 +65,7 @@ li a {
 
 .image-container {
     position: relative;
-    background-image: url(./images/background-paul.jpg);
+    background-image: url(./background-paul.jpg);
     background-size: cover;
     background-position: center;
     height: 100%;
@@ -157,7 +157,7 @@ li a {
     box-shadow: -15px 7px 30px rgba(0, 0, 0, .2);
     border-radius: 10px;
     margin: 50px;
-    background-image: url(./images/luca-bravo-XJXWbfSo2f0-unsplash.jpg);
+    background-image: url(./luca-bravo-XJXWbfSo2f0-unsplash.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -170,7 +170,7 @@ li a {
     box-shadow: -15px 7px 30px rgba(0, 0, 0, .2);
     border-radius: 10px;
     margin: 50px;
-    background-image: url(./images/marvin-meyer-SYTO3xs06fU-unsplash.jpg);
+    background-image: url(./marvin-meyer-SYTO3xs06fU-unsplash.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -183,7 +183,7 @@ li a {
     box-shadow: -15px 7px 30px rgba(0, 0, 0, .2);
     border-radius: 10px;
     margin: 50px;
-    background-image: url(./images/thisisengineering-raeng-ZPeXrWxOjRQ-unsplash.jpg);
+    background-image: url(./thisisengineering-raeng-ZPeXrWxOjRQ-unsplash.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -242,7 +242,7 @@ li a {
 .about-image {
     height: 450px;
     width: 400px;
-    background-image: url(./images/cell-phone-fix.jpg);
+    background-image: url(./cell-phone-fix.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -292,7 +292,7 @@ li a {
         box-shadow: -15px 7px 30px rgba(0, 0, 0, .2);
         border-radius: 10px;
         margin: 50px;
-        background-image: url(./images/luca-bravo-XJXWbfSo2f0-unsplash.jpg);
+        background-image: url(./luca-bravo-XJXWbfSo2f0-unsplash.jpg);
         background-size: cover;
         background-position: center;
     }
@@ -305,7 +305,7 @@ li a {
         box-shadow: -15px 7px 30px rgba(0, 0, 0, .2);
         border-radius: 10px;
         margin: 50px;
-        background-image: url(./images/marvin-meyer-SYTO3xs06fU-unsplash.jpg);
+        background-image: url(./marvin-meyer-SYTO3xs06fU-unsplash.jpg);
         background-size: cover;
         background-position: center;
     }
@@ -318,7 +318,7 @@ li a {
         box-shadow: -15px 7px 30px rgba(0, 0, 0, .2);
         border-radius: 10px;
         margin: 50px;
-        background-image: url(./images/thisisengineering-raeng-ZPeXrWxOjRQ-unsplash.jpg);
+        background-image: url(./thisisengineering-raeng-ZPeXrWxOjRQ-unsplash.jpg);
         background-size: cover;
         background-position: center;
     }
@@ -334,7 +334,7 @@ li a {
        margin-top: 20px;
        height: 300px;
        width: 225px; 
-       background-image: url(./images/cell-phone-fix.jpg);
+       background-image: url(./cell-phone-fix.jpg);
        background-size: cover;
        background-position: center;
     }
